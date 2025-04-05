@@ -55,12 +55,13 @@ This project is directly inspired by several recent works on **contrastive VAEs*
     _Contrastive Variational Autoencoder Enhances Salient Features_  
     → Proposes the cVAE model to separate salient latent factors in a target dataset compared to a reference group.  
     📄 [GitHub](https://github.com/abidlabs/contrastive_vae)
+    📄 [PDF link](https://arxiv.org/abs/1902.04601)
     
 - **Louiset et al., ICML 2023 Workshop**  
     _SepVAE: a contrastive VAE to separate pathological patterns from healthy ones_  
     → Introduces SepVAE, a more advanced cVAE variant with saliency-focused classification loss and stronger independence constraints.  
     📄 [GitHub](https://github.com/neurospin-projects/2023_rlouiset_sepvae)
-    
+
 
 ---
 
