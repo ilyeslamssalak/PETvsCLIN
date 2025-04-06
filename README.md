@@ -131,6 +131,7 @@ This class handles:
 ---
 
 ## Main Dependencies
+### Python Version Used : Python 3.11.11
 
 - `torch`
     
@@ -173,8 +174,7 @@ This notebook walks through:
     
 - evaluating and visualizing the results.
     
-
-📌 **We recommend starting with this notebook** to replicate the experiments or adapt the pipeline to another dataset.
+ **We recommend starting with this notebook** to replicate the experiments or adapt the pipeline to another dataset.
 
 
 
