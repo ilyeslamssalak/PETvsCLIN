@@ -33,9 +33,9 @@ Main steps include:
 
 We would like to sincerely thank our two supervisors:
 
-- **Diana Mateus**, Professor at École Centrale de Nantes and researcher at the IRCCyN Laboratory,
+- **Diana Mateus**, Professor at École Centrale de Nantes and researcher at the LS2N Laboratory,
     
-- **Oriane Thiery**, researcher at Guerbet Research,
+- **Oriane Thiery**, Phd student at LS2N.
     
 
 for their guidance, scientific input, and availability throughout the project.
